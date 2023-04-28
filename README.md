@@ -1,0 +1,2 @@
+# Gestion_Prueba
+Git POLITICA DE PASE A PRODUCCION
